@@ -31,7 +31,6 @@
       }
 
       .container {
-        background: var(--color-background);
         height: calc(100% - 10px);
         width: calc(100% - 10px);
         display: flex;
