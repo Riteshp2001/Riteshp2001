@@ -3,12 +3,12 @@
 
 <img src="./intro.svg"/>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/riteshp2001/count.svg" />
 </p>
-	
+
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin-bottom: 16px;">
-  <a href="mailto:riteshd2001@gmail.com" style="text-decoration: none;">
+<br/><br/> <a href="mailto:riteshd2001@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAChklEQVR4nO2Yu2sVQRSHRyNiJIqSKIJRCwWDKIhYiATSaKVFbIJVulSCKcQmNv4FgpVYiYJYKQRUMGmCoo0WgiCCFiq+ICCKr4hJPjlyLkzW2d3Zx527ynwQ7s29c878vn3OXWMikUgk0gSALcAJ4BxwEtjYgEybgTPABeCUZMwrOAZ8ZylftXhZsOSKzAmcBn4kMn0Cho0LYMBRYHML6DOBADYAtzPySNadrsLL5PMmoMhbjzyXXIXvPAqxxne1IXyX9Z5SGxZYKCgyIydhzSf0TEGRBVcjLxLjZ4EjNUgcAt47+nvnqSoiLALngZUlBFYAZ+2jwXRQpMVDYHsBia3A/QL9nbgaj+o9I5OciT4Dxz0khoGPJfrbyP1uPOte8pgMPCe6Aqx29F+lh2HV/k+BPWkSu/W1G7hYcSJ0gwwU2Uie/SVbt505KSK7asz6f0SXAmVFhC96yI7q+1xMen/JMmJ9PyaZXSItrgPr9LNtwIMKIoUx7v6PgB36+RrganK8S0R4CRxwXSIDiyzal3ZgH/DcNT5NRPilAsv1+8PAh4Ais8BRaxU8Dsyljc8SaTEJ9OqY/oAi/fraqxkyx/uICK+BwcT4+fo1mE/MMahzU5dI61CbsMYPyeqzPoc/vYas/hM6J3WL/FUoP7SAm5UVYBrYVDVPpULrRPxZQmDJBaWjIlb9fuBFAYlXwMGMfp0R0R5rgWsebW4A63N6dU7E6iVLkm8pDwzcK9YmigjALuCJVfoM2Gs8oSki2rNHH/TJX0/B2uaIVIGyeaJImyDuEU/atQfiHkniu1YygcCPOVfh9D8oMuUqlAcNUzl75m5AkXsZOSTjHXlaGSpPJBKJRP5vfgN7EhHwkoccoQAAAABJRU5ErkJggg==" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); height: 40px;"/>
   </a>
   <a href="https://riteshdpandit.vercel.app" target="_blank" style="text-decoration: none;">
@@ -17,6 +17,7 @@
 </div>
 
 </div>
+<br/><br/>
 
 <div align="center">
 
