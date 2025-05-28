@@ -1,2 +1,105 @@
-# Ritesh-Pandit
-Info Readme for Github
+<div align="center">
+   <h1>  <p2>Hello</p2>, I'm Ritesh <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> </h1>
+
+<div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/riteshp2001/count.svg" />
+</p>
+	
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin-bottom: 16px;">
+  <a href="mailto:riteshd2001@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); height: 40px;"/>
+  </a>
+  <a href="https://riteshdpandit.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAAEgBckRAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAK5ElEQVR4nLQaCVhUx3mXGJNoD2KiiDcKlfuG3WUXXQS1mjS2+Rq1MYlfxSomn1EhtoIHIERE5BJEoqCC4AVeqUeiFYt41Xxqm3qCyFIUUA4VXECFnf7zjt339s17u2va//uGmX0z/zkz//zzDzIZBXLqr8bfP4ttGwFx4G07uyj243huBwYjRkHeFnJHIaeDz0QAjBARKqXXxKCgPHOJPkXIwFIyGDFEJRLt8HRy8t61fTtF7erly8jEOCQkAdfhSuUeHvOe3t7p9+/fR3uKizGl1ygJ+KQ1RH1M47jDWR3MDAKfFlHfDeaDTb8FPGqrq4WUGSjfs0eIwCo5/5NP4mCMDspZguwyWWtr62+hoAN79/KohCsUS9raWlFnZ6f0hIYFB6erff02AMIXJpPwOaDGxkbk6+KSSbDPgfcnhQ/nUfQbP34eO+cCBOYDD2GSSrUUOvT84fwp+dPcuVtMyqlUS5Lj14ialMUzImjBGvmbclD17dvECWOBJ1LZ7t3ipAES4+JqzXV4E3ckxMYS0XhKgw5LcQ0dqeaka2tqoGHgb3fMgW27jhiRePTgoZOwCJtg/MfEmQ0PCfnc/Js2KGgocTCG9vZ21NbWZrICI0Btbe2ylpYWdKisTLiWtErlmBA3t9FsmaRUbmX0e991+PAFjI6LoZwBna5CXQrFHz7bTQwM3CUqDSvConnzTqxavhzpu7oQlrDy9Glsoz+aTyJhbeKP1Gcg5PDplCkDRdmwxoWxduRJ57AhcqK+to4aMuR3kgyegAYWGZhpw23D/LQTGeAlDv0LC/Pz0br4eAtMxJSggcgAbzro8yjIy6MG7S0p5VhDKLUYXP/xRyRpovSUlF5MC3vYpgcPxCZW+AnGd8EiAXAmLSTeDmptaUmFbWakVa/TUQSMenAYMF8NxQUFyPwM5v3mMoDjKS7Ezy8J3GfQ/YYGtHfXLpSfk4M6OzpQT89z1AiaYQ9zpLwcE79CNImYibhHhDlofH23e45x0krRMVeCArWvb5yzo+My9neAq2uMGAHQbj2uVV5ea8YOGbKIKZ/7ubhEkakDrIiOzi6GI31nQSEqgrIuIcG4Erg4dFsum6BSea1dubKwqLAQcApQyc6dqGTHDs4ciHESgTDwiBMCA7eo/X034IhKqwhKiwAmXM6itGHgfrW7+yiuswsLDByP+8CtlkCFXYcblB14QqFUQlmO+50cHCJhvmZISjdu6NA/9/b2oQewMu5DaX/cjnYUFGztJ5OFAiF+5EaGQaH+/vygiAsgZdo+2LX/vHaN8vN6vR7lZGdFivkakd2cHujhUSw0Edd2Mpkb25CmZQ7GYUlKb+8PRDWJUCioUA4GNksRl+I6d+bMr0hKGBnAmDcsEbWgVjcQ/BWfMgMKNzcl+JsKaXzS8cb3tCpv7zQxK+GliOJiYqyRVGSMAaUmJbUQTQTgjIf0dHfDSnqG/a+VbPh6bEpP14tpQDHogmWakbrehiOG776/Wrz4qlzKRM+eQegJcOr4cUYLSZsIuoI9POYTqQe4uyug//wzCMLx4XLp/HlpusRgxsA5Ls1mglmmP6OGMZKnJCRKGsccctPTKQYEE9EMcGvjunWdNA84DKG8ePGCsA+EsdHfvvsOV6PEJlgWEUwzwFC0dauR1oakJClDUd/PnjmDew8LLcNlABpw+85C+Pjo4UOKahUmILjH0ZCWnIyr7y0eMayJmJA7aLi9/TJALDm8vwzFRkejF8+fU3sEH/xXf/gB5WZkID20AYIs0RYy0GgofwLb/tfOw4bFX7p4cfPGdSm9QLwbCF6Hkg/FwSrCRAbBwYzD4kF/iqmXV6Kgx/IRLJeFq9WhRAYcZDBdCfS9Yz1dgClq9SmnwYONF1eM5mRvP1oMGQQJgzg2dsy77y4cx4QtPs7OGaIMnIcO/QteIfgS3AalCyby4P79QjOYgoTPcI3XJb4y4XLtyhX09OnTL4kI4Dt2l0EGAMc3dIxThI4fPRonxgBr5u/qmlMO930apxDB5kSdev0C6X2gVsfBXT9O4ekZE+LjYyxqplb5+KwIDQiIZSebJQYxpl2YUjkzTKHYrPDwSLTv108L3wVXKQ7fgW/KZBMDXN1WTwhW5MC8ztZqtf0kxpO1NAf3kSNxKiSkvr6+RafT1erqdTVQ10DkXqOrr695+KilJjczEx07dgx749ch2sn0c3VNZOKyd7BTAa/xSMybmNyAsQWbtG8b1E5A4zWvcWNXgxGyP1Kp3pKSXVQlj9GjMy5UVf3hXm0tunnjBqq5exdVV9dAqUY1cBVpam5GWWlpaLJa/W9A+DkwnggF72uBpyWrYNYiD50NtB2Vnp57pmm1I2xWA1vj8ePHq2NjYr7Nz83NhYRb9J07d2JwuXXrVvTdurqFsGHO8eWyIWSir1piQzkxQB9OMwQqvD03vsJs0AkyWNdqvnKGEN69T1xCsVyhBTDiGofCSTofjoz0adOmvWGTAvguSHtuercALSrtZIOtBWOsj9740NPTUzbC3j7eZgXYGQAanxmFwCey+KlvtfimlSQ2Y/wPf6+oODdQLvuY7H7kZAWGDRjgB7hybIT4FSvQzes3TEpYCRbksgm+iIyslJJZsAegcgG8GRh5X0kJXMwL0KkTJxglXkl864aKtHMyMrotrx1GM1g+XzLXhKUYOX/TJorav+CGi5Mt/09LC4Emtn7t2oeWFeDOgJyagQ8x8je5uYi6LUD7UfND9PWaNT9ZIOlu/phuyJ99OH36dkmrc9t4DwweMNCXeXB5WbRtm1EBljbOh+MImD4KCOesZVGtVmwn3CGmhoV5YAHlr+CFov564AB2ZwJmOMi6Byc2dclllLDa31szBqqzFRUoLzs7XdToYgpwI/iNyckpVUCIJATOoFWcOsVMhOGni20yhGEvPLuBAkesMboga8pVAENvb+97hZBoboT3PJYNLbABnausRDvoqyJpCVsFplQvMvzjwgW0j34zNOY+xU0vt3wSc6Gvr68QE6+kZ8QoakN9PUpdu9Z2yTk64IfOcvqR6qLV1iYBaQYwQOy+KcTX93sITPCb8kf/0en6SiEBWwpJ3ObGJjobmJJitcR3bt1CeVlZqATwsacB+FpaMqs2sZynABdBq1IlwsMIFebCY9NkbyenbBdHxwV3bt6cDczxnD/CV7ukVatQZmoqlZAvhmwzPgSxkEfgxetiVRVqhnTsc7jHg9Fh86BplmUyE8R6BfhYOMkvvJLL2Rdyh5GDB4cO6t9/lvuIkVEKL6/DcJsrn6zRpE7RaEphiJ2oLPL/geyWNrG4AnwCcv7Dwiz2lQPam+EyFEhkSMC1GaaqVIMgozI2PChoLLxbZoCgoTYpICLCVI3GB9IM+bgNdWS4UhUHS9FZA3wwL/MyITjYKSAg4HWbFYAkOdxp0S86u7p/D/X0urq6Wbdv356DC1wp5zQ0NMxZEhV1PCUhIUJCXiJEBAT8EoQvY38DfccnnZ0zOzo6ZnTo9R+wBd7qfrO/tHTJkkWLTjzt6SE8vZGAEkKO3zyWA2FtN5y4zXD/xW8fbGlsakKPnz5Bu4uK4LGxZKW4AtIahamU+HHmLeAz88XLl6gJ6HL5tMJTyOVLl+BpaTtqf/JkIYmmMAPOfMEZv5TExOTTJ0+ibw8dQochfOCWQ/C8dwX+fQXuxqI5HZHcKw8mhYb6Z2zY8A0+vY8cPCjggeu6e/cQZEfoPBBpszDwXwAAAP//tll5CAAAAAZJREFUAwC+osDiFM2P0wAAAABJRU5ErkJggg==" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); height: 40px;"/>
+  </a>
+</div>
+
+</div>
+
+<div align="center">
+	
+<div>
+	
+![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=riteshp2001&count_private=true&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshp2001&hide_progress=true&show_icons=true&theme=tokyonight)
+	
+</div>
+
+<div>
+	
+![riteshpandit](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshp2001&theme=tokyonight)
+![riteshpandit](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riteshp2001&theme=tokyonight)
+![riteshpandit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tokyonight&theme=tokyonight&utcOffset=3.30)
+
+</div>
+
+## 🚨 About Me
+
+<!-- About Me Section -->
+
+  <div style="max-width: 800px; margin: 0 auto;">
+    <p style="font-size: 1.1em; color: #555; margin: 10px 0;">I am a passionate Software Developer... Blah blah blah...</p>
+    <p style="font-size: 1em; color:rgb(105, 122, 133); font-weight: bold; margin: 10px 0;">But one thing is true</p>
+    <p style="font-size: 1.2em; color: #007acc; font-weight: bold; margin: 10px 0;">Life felt dull — until I gripped the mouse, keyboard, and VSCode.</p>
+  </div>
+
+
+## 😗 Skills
+
+<div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/framer%20motion-005571?style=for-the-badge&logo=framer&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" style="border-radius: 8px;"/>
+    </span>
+  </div>
