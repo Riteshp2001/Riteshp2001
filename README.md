@@ -83,4 +83,7 @@
     <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
       <img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" style="border-radius: 8px;"/>
     </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/sentry-%234B1D3F.svg?style=for-the-badge&logo=sentry&logoColor=white" style="border-radius: 8px;" />
+    </span>
   </div>
