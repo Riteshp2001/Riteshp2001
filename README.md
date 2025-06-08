@@ -86,4 +86,8 @@
     <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
       <img src="https://img.shields.io/badge/sentry-%234B1D3F.svg?style=for-the-badge&logo=sentry&logoColor=white" style="border-radius: 8px;" />
     </span>
+
+   <p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+   </p>
   </div>
