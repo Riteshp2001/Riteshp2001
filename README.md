@@ -57,9 +57,6 @@
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="border-radius: 8px;"/>
     </span>
     <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="border-radius: 8px;"/>
-    </span>
-    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 8px;"/>
     </span>
     <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
@@ -85,6 +82,12 @@
     </span>
     <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
       <img src="https://img.shields.io/badge/sentry-%234B1D3F.svg?style=for-the-badge&logo=sentry&logoColor=white" style="border-radius: 8px;" />
+    </span>
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" style="border-radius: 8px;" />
+    </span
+    <span style="border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.06); padding: 2px 4px;">
+      <img src="https://img.shields.io/badge/arcjet-4A00E0?style=for-the-badge&logo=arcjet&logoColor=white" style="border-radius: 8px;" />
     </span>
 
    <p align="center">
