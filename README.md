@@ -19,11 +19,22 @@
 </div>
 <br/><br/>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B;Dark+Mode+is+My+Love+Language;I+Can+Center+a+Div%E2%80%A6+After+17+Attempts+T-T" alt="Typing SVG" /></a>
+<h1>
+
+<div>
+
+![snake animation](https://github.com/Riteshp2001/Riteshp2001/blob/output/github-snake-dark.svg)
+
+</div>
+
 <div align="center">
 
 <div>
-	
+
 ![riteshpandit](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshp2001&theme=tokyonight)
+
 </div>
 
 <!-- About Me Section -->
