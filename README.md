@@ -31,11 +31,11 @@
 
 <div align="center">
 
-<div>
+<!-- <div>
 
 ![riteshpandit](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riteshp2001&theme=tokyonight)
 
-</div>
+</div> -->
 
 <!-- About Me Section -->
 
