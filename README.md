@@ -4,7 +4,7 @@
 <img src="./intro.svg"/>
 <p align="center"> 
   Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/riteshp2001/count.svg" />
+  <img src="https://profile-counter.deno.dev/riteshp2001/count.svg" />
 </p>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin-bottom: 16px;">
