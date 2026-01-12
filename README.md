@@ -3,8 +3,9 @@
 
 <img src="./intro.svg"/>
 <p align="center"> 
-  Visitor count<br><br>
-  <img src="https://profile-counter.deno.dev/riteshp2001/count.svg" />
+ 	<img src="https://komarev.com/ghpvc/?username=riteshp2001&style=for-the-badge&base=1346&label=VIEWS&color=EC5800" width="200" />
+	<br/>
+	<br/>
 </p>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; margin-bottom: 16px;">
