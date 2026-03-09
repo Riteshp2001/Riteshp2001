@@ -102,7 +102,7 @@
       <img src="https://img.shields.io/badge/arcjet-4A00E0?style=for-the-badge&logo=arcjet&logoColor=white" style="border-radius: 8px;" />
     </span>
 
-	//Isometric Contributions
+	<!-- Isometric Contributions -->
 <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=riteshp2001&stats=true&credit=true&theme=github"/>
 
    <p align="center">
